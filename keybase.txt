@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/anukul
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://anukul.js.org
+  * I am anukul (https://keybase.io/anukul) on keybase.
+  * I have a public key ASAcZg0tYmk4s4IRAjs2Ple8vaMilIDy-RvpYKcq0DEukQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201c660d2d626938b38211023b363e57bcbda3229480f2f91be960a72ad0312e910a",
+      "host": "keybase.io",
+      "kid": "01201c660d2d626938b38211023b363e57bcbda3229480f2f91be960a72ad0312e910a",
+      "uid": "0ff6eb006a264b228393bff8c3f8b919",
+      "username": "anukul"
+    },
+    "merkle_root": {
+      "ctime": 1568480657,
+      "hash": "eeee80e70fdcc0ea5abe427e2aa7f0d24e3dc20c4fc7031cc07f1f1e0e0c517092c9d5279b55963b23ef08d9e6f300086776ae6360db2466100c1f6fc596c1d6",
+      "hash_meta": "99f1e96cb7c75dff47308fd2cc734d19e68fb61b214de288dc005179cae0b002",
+      "seqno": 7333190
+    },
+    "service": {
+      "entropy": "nEu5sBm7ITekf1Hlh18hnX6I",
+      "hostname": "anukul.js.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568480663,
+  "expire_in": 504576000,
+  "prev": "e9bfadc18e19f4ef8e61f1aa3b02616d0bb1770a093b2b3c2c4a498462d4a290",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHGYNLWJpOLOCEQI7Nj5XvL2jIpSA8vkb6WCnKtAxLpEKp3BheWxvYWTESpcCI8Qg6b+twY4Z9O+OYfGqOwJhbQuxdwoJOys8LEpJhGLUopDEIFg+/LWIgohbz8qSAxr9qYyFwGylUrO6wERVjWoz62IPAgHCo3NpZ8RAyoGvi1DT+QNpSCJa097IjLHfFgxrVV0xB/n3HqZpZhI83tU5nudUKM6RNm2CTwspfUxskCl571jRYq4TjvpQA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMm7kgNWxVExqO8+PIXkRsghE08YnIvNKWb95SiecxNqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/anukul
+
+==================================================================
